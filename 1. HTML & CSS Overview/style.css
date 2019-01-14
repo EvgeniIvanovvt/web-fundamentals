@@ -1,0 +1,16 @@
+p{  
+    text-align: center;
+}
+
+div{
+    background: #f7f381;
+    width: 500px;
+    padding: 20px;
+    margin: 20px;
+    border: 1xp solid;
+    text-shadow: 0 0 10px;
+}
+
+ol{
+    margin: 12px; 
+}

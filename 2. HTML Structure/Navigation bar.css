@@ -1,0 +1,23 @@
+li
+{
+display: inline-block;
+margin: 20px
+}
+
+*
+{
+    margin-top: 0%;
+    margin-left: 0%;
+}
+
+nav
+{
+background: darkgray;
+text-align: center
+}
+
+a
+{
+color: #ffffff;
+text-decoration: none
+}

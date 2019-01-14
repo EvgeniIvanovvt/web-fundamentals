@@ -1,0 +1,38 @@
+li
+{
+    display: inline-block;
+   
+    margin: 15px
+   
+}
+
+h1
+{
+    text-size-adjust: 28px;
+
+}
+.italic-p
+{
+    font-style: italic
+}
+
+body{
+    background: darkgray;
+}
+
+a{
+    text-decoration: none
+}
+
+nav
+{
+    background: greenyellow;
+    text-align: center;
+}
+body{
+    margin: 0px;
+}
+footer{
+    text-align: center;
+    background: greenyellow;
+}
